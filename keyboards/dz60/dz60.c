@@ -1,5 +1,6 @@
 #include "dz60.h"
 #include "led.h"
+#include "capslock-sync.c"
 
 void matrix_init_kb(void) {
   // Keyboard start-up code goes here
